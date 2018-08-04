@@ -61,7 +61,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CameraFollow2D.cs" />
+    <Compile Include="Assets\EmptyMove.cs" />
     <Compile Include="Assets\PlayerCharacter.cs" />
+    <Compile Include="Assets\Scripts\Const.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/alex.DESKTOP-6DJHV7M/Downloads/Unity/Plane/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

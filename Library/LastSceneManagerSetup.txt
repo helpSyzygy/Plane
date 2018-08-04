@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/PlayScene.unity
+- path: "C:/Users/\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440/Documents/Sania/Assets/Scene/PlayScene.unity"
   isLoaded: 1
   isActive: 1
